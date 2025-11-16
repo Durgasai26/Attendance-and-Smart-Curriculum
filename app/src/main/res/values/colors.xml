@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF0B0F10</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#6750A4</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="secondary">#625B71</color>
+    <color name="surface">#14181B</color>
+    <color name="onSurface">#E6EAF0</color>
+    <color name="cardGradientStart">#1F2A37</color>
+    <color name="cardGradientEnd">#111827</color>
+    <color name="accent">#22C55E</color>
+
+    <color name="teal_700">#018786</color>
+
+    <color name="purple_500">#9C27B0</color>
+    <color name="purple_700">#7B1FA2</color>
+    <color name="red">#D32F2F</color>
+    <color name="dark_gray">#555555</color>
+
+</resources>
